@@ -1,5 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/oxld48dv3h8hso4l?svg=true)](https://ci.appveyor.com/project/KudrMar/les9-4)
 
-![CI](https://github.com/KudrMar/les9.2/actions/workflows/web.yml/badge.svg)
 
+https://kudrmar.github.io/les9.4/
 
 
