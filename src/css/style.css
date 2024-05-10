@@ -1,0 +1,78 @@
+h3 {
+    font-size: 1.3em;
+}
+
+.cards {
+    margin: 0;
+    height: 55px;
+    padding-inline-start: 0;
+}
+
+.cards li {
+    display: block;
+    float: left;
+}
+
+.card {
+    float: left;
+    width: 48px;
+    height: 48px;
+    text-indent: -9999px;
+    background-position: 0 0;
+    margin-right: 4px
+}
+
+.card.visa {
+    background-image: url(../img/card-visa.png)
+}
+
+.card.amex {
+    background-image: url(../img/card-amex.png)
+}
+
+.card.mir {
+    background-image: url(../img/card-mir.png)
+}
+
+.card.master {
+    background-image: url(../img/card-mastercard.png)
+}
+
+.card.discover {
+    background-image: url(../img/card-discover.png)
+}
+
+.card.unionpay {
+    background-image: url(../img/card-unionpay.png)
+}
+
+.form-group {
+    width: 100%;
+    display: flex;
+    justify-content: start;
+}
+
+.submit {
+    margin: 0 10px;
+}
+
+.incorrect {
+    color: rgb(230, 16, 16);
+    margin-top: 10px;
+}
+
+.correct {
+    color: rgb(9, 125, 42);
+    margin-top: 10px;
+}
+
+body {
+    margin: 20px;  
+}
+
+.markCard {
+    border: solid red;
+    border-radius: 5px;
+}
+
+
